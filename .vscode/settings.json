@@ -1,0 +1,14 @@
+{	"editor.cursorBlinking": "expand",
+"editor.cursorStyle": "line-thin",
+"editor.cursorSmoothCaretAnimation": "explicit",
+
+"editor.quickSuggestions": {
+  "other": true,
+  "comments": false,
+  "strings": false
+},
+"editor.suggestOnTriggerCharacters": true,
+"editor.parameterHints.enabled": false,
+"editor.wordBasedSuggestions": "off",
+"editor.inlineSuggest.enabled": false
+}
